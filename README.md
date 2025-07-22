@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -22,5 +23,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
