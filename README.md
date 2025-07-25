@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0136-single-number) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Binary Search
