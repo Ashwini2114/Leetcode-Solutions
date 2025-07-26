@@ -15,14 +15,15 @@ class Solution {
         // }
         // return count;
         HashMap<Integer, Integer> map = new HashMap<>();
+        map.put(0,1);
         int sum = 0;
 
         for (int i = 0; i < nums.length; i++) {
             sum += nums[i];
-
-            if (sum == k) {
-                count+=1;
-            }
+            //Instead of it add (0,1) in map beforehand
+            // if (sum == k) {
+            //     count+=1;
+            // }
 
             if (map.containsKey(sum - k)) {
                 count+=map.get(sum-k);
