@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -91,8 +92,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0155-min-stack) |
+| [0503-next-greater-element-ii](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
