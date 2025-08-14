@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0169-majority-element) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 ## String
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
@@ -122,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
