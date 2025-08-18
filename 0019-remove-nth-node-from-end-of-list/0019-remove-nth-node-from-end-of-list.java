@@ -10,35 +10,26 @@
  */
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
-        ListNode temp = head;
-        int count = 0;
-        while(temp != null)
+        ListNode fast = head;
+        for(int i = 0; i < n; i++)
         {
-            count += 1;
-            temp = temp.next;
+            fast = fast.next;
         }
-
-        if(count == n)
+        if(fast == null)
         {
-            head = head.next;
-            return head;
+            return head.next;
         }
-        int res = count - n;
-        temp = head;
-        while(temp != null)
+        ListNode slow = head;
+        while(fast.next != null)
         {
-            res -= 1;
-            if(res == 0)
-            {
-                break;
-            }
-            temp = temp.next;
+            slow = slow.next;
+            fast = fast.next;
         }
-        temp.next = temp.next.next;
+        slow.next = slow.next.next;
         return head;
     }      
 }
-
+//BRUTE FORCE BY ME
     // // Get the size of the LL
     //     ListNode temp = head;
     //     int count = 0;
@@ -72,4 +63,33 @@ class Solution {
     //         prev = temp;
     //         temp = temp.next;
     //     }
+    //     return head;
+
+
+//BRUTE FORCE STRIVER
+    // ListNode temp = head;
+    //     int count = 0;
+    //     while(temp != null)
+    //     {
+    //         count += 1;
+    //         temp = temp.next;
+    //     }
+
+    //     if(count == n)
+    //     {
+    //         head = head.next;
+    //         return head;
+    //     }
+    //     int res = count - n;
+    //     temp = head;
+    //     while(temp != null)
+    //     {
+    //         res -= 1;
+    //         if(res == 0)
+    //         {
+    //             break;
+    //         }
+    //         temp = temp.next;
+    //     }
+    //     temp.next = temp.next.next;
     //     return head;
