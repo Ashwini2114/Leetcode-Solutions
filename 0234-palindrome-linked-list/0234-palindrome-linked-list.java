@@ -10,22 +10,68 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        ListNode temp = head;
-        Stack<Integer> stack = new Stack<>();
-        while(temp != null)
+        if(head == null || head.next == null)
         {
-            stack.push(temp.val);
-            temp = temp.next;
+            return true;
         }
-        temp = head;
-        while(temp != null)
+        ListNode slow= head;
+        ListNode fast = head;
+        while(fast.next != null &&fast.next.next != null)
         {
-            if(temp.val != stack.pop())
+            slow= slow.next;
+            fast = fast.next.next;
+        }
+        ListNode newHead = reverseList(slow.next);
+        ListNode first = head;
+        ListNode second = newHead;
+        while(second != null)
+        {
+            if(first.val != second.val)
             {
+                reverseList(newHead);
                 return false;
             }
-            temp = temp.next;
+            first = first.next;
+            second = second.next;
         }
+        reverseList(newHead);
         return true;
     }
+
+    public static ListNode reverseList(ListNode head)
+    {
+        if(head == null || head.next == null)
+        {
+            return head;
+        }
+        ListNode prev = null;
+        ListNode temp = head;
+        while(temp != null)
+        {
+            ListNode front = temp.next;
+            temp.next = prev;
+            prev = temp;
+            temp = front;
+        }
+        return prev;
+    }
 }
+
+// BRUTE FORCE
+// ListNode temp = head;
+//         Stack<Integer> stack = new Stack<>();
+//         while(temp != null)
+//         {
+//             stack.push(temp.val);
+//             temp = temp.next;
+//         }
+//         temp = head;
+//         while(temp != null)
+//         {
+//             if(temp.val != stack.pop())
+//             {
+//                 return false;
+//             }
+//             temp = temp.next;
+//         }
+//         return true;
