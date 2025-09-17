@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Greedy
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/Ashwini2114/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
